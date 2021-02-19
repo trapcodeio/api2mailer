@@ -1,6 +1,6 @@
 {
   "name": "api2mailer",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Api 2 Mailer",
   "main": "index.js",
   "types": "index.d.ts",
